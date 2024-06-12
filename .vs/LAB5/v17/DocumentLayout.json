@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\22520509-LeTrungHung-Lab5-bai4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C922128-E618-4424-990C-56C48F66B835}|Bai4\\Bai4.csproj|c:\\users\\asus\\desktop\\22520509-letrunghung-lab5-bai4\\bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C922128-E618-4424-990C-56C48F66B835}|Bai4\\Bai4.csproj|solutionrelative:bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C922128-E618-4424-990C-56C48F66B835}|Bai4\\Bai4.csproj|c:\\users\\asus\\desktop\\22520509-letrunghung-lab5-bai4\\bai4\\hienthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C922128-E618-4424-990C-56C48F66B835}|Bai4\\Bai4.csproj|solutionrelative:bai4\\hienthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C922128-E618-4424-990C-56C48F66B835}|Bai4\\Bai4.csproj|c:\\users\\asus\\desktop\\22520509-letrunghung-lab5-bai4\\bai4\\progessbarwithlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C922128-E618-4424-990C-56C48F66B835}|Bai4\\Bai4.csproj|solutionrelative:bai4\\progessbarwithlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgessBarWithLabel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\22520509-LeTrungHung-Lab5-bai4\\Bai4\\ProgessBarWithLabel.cs",
+              "RelativeDocumentMoniker": "Bai4\\ProgessBarWithLabel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\22520509-LeTrungHung-Lab5-bai4\\Bai4\\ProgessBarWithLabel.cs",
+              "RelativeToolTip": "Bai4\\ProgessBarWithLabel.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA5wAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:13:04.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hienthi.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\22520509-LeTrungHung-Lab5-bai4\\Bai4\\Hienthi.cs",
+              "RelativeDocumentMoniker": "Bai4\\Hienthi.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\22520509-LeTrungHung-Lab5-bai4\\Bai4\\Hienthi.cs",
+              "RelativeToolTip": "Bai4\\Hienthi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:12:54.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\22520509-LeTrungHung-Lab5-bai4\\Bai4\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai4\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\22520509-LeTrungHung-Lab5-bai4\\Bai4\\Form1.cs",
+              "RelativeToolTip": "Bai4\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:12:45.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
